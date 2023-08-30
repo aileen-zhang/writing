@@ -1,6 +1,6 @@
 ---
 layout: default
-title: sweet home
+title: home
 ---
 
 <div class="posts">
@@ -14,7 +14,7 @@ title: sweet home
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
 
-    {{ post.excerpt }}
+    <div class="excerpt">{{ post.excerpt }}</div>
   </div>
   {% endfor %}
 </div>
