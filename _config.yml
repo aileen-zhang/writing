@@ -1,7 +1,7 @@
 # Setup
 title:               'juvenalia'
 tagline:             'for I shall never grow old'
-description:         'writing (largely creative)'
+description:         'prose & poetry, good & bad'
 url:                 https://aileenz.com
 baseurl:             '/writing'
 paginate:            7

@@ -33,7 +33,7 @@
  --mono-font: "JetBrains Mono", 'Courier New', Courier, monospace;
 
  --small-font: 0.75rem;
- --smed-font: 0.9rem;
+ --smed-font: 0.85rem;
  --med-font: 1rem;
  --large-font: 1.35rem;
 }
@@ -79,7 +79,7 @@ h2 {
 }
 
 .excerpt {
-  font-size: smaller;
+  font-size: var(--med-font);
 }
 
 /*
@@ -133,6 +133,7 @@ h2 {
   margin-top: 0;
   margin-bottom: 0;
   color: #505050;
+  font-size: var(--med-font);
 }
 .masthead-title a {
   color: #505050;
@@ -353,9 +354,9 @@ a.sidebar-nav-item:focus {
   margin-bottom: 1rem;
 }
 
-.post p {
-  font-size: var(--smed-font);
-}
+/* .post p {
+  font-size: var(--med-font);
+} */
 
 /* Meta data line below post title */
 .post-date {
@@ -380,7 +381,7 @@ a.sidebar-nav-item:focus {
 }
 .related-posts h3 {
   margin-top: 0;
-  font-size: var(--small-font);
+  font-size: var(--smed-font);
 }
 .related-posts li small {
   font-size: 75%;
