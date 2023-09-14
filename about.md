@@ -1,6 +1,13 @@
 ---
 layout: page
-title: meet me
+title: about me
 ---
 
-I'm Aileen, and I write things sometimes. The ones I think are worth reading are collected here. The ones I think are garbage are buried in the backyard.
+my name aileen,  
+and wen i write,  
+i try my best  
+to capture lite.  
+somtimes i fail  
+and put out trash,  
+somtimes i win  
+and catch the flash.  

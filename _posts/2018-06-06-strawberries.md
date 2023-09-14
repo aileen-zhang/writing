@@ -5,9 +5,9 @@ tag: poetry
 ---
 
 The common supermarket strawberry  
-is a monstrous fruit, engorged and studded  
+is a monstrous fruit, engorged and studded<!--more-->  
 with seeds, heavy enough to really pack a punch  
-if you'd turn it projectile.<!--more--> Its meat is sweet as  
+if you'd turn it projectile. Its meat is sweet as  
 anything, as sweet as romance-novel love,  
 
 as sweet as syrup chugged straight  

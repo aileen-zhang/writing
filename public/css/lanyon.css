@@ -33,9 +33,9 @@
  --mono-font: "JetBrains Mono", 'Courier New', Courier, monospace;
 
  --small-font: 0.75rem;
- --smed-font: 0.85rem;
+ --smed-font: 0.9rem;
  --med-font: 1rem;
- --large-font: 1.5rem;
+ --large-font: 1.35rem;
 }
 
 hr {
@@ -353,7 +353,9 @@ a.sidebar-nav-item:focus {
   margin-bottom: 1rem;
 }
 
-
+.post p {
+  font-size: var(--smed-font);
+}
 
 /* Meta data line below post title */
 .post-date {
@@ -378,7 +380,7 @@ a.sidebar-nav-item:focus {
 }
 .related-posts h3 {
   margin-top: 0;
-  font-size: var(--smed-font);
+  font-size: var(--small-font);
 }
 .related-posts li small {
   font-size: 75%;

@@ -4,9 +4,7 @@ title: Femme fetal
 tag: prose
 ---
 
-I had a sister, once. We met onboard a nuclear submarine two months into its mission, colliding in the halls as klaxons blared and crewmen stumbled over each other to staunch the flow of water into the bulkhead, pushing against a gushing tide lit red and fateful by alarm lights. I watched her tumble under with the rest of them, crushed into nothing or pulled out into the deep. I didn't know her then. I barely know her now.
-
-<!--more-->
+I had a sister, once.<!--more--> We met onboard a nuclear submarine two months into its mission, colliding in the halls as klaxons blared and crewmen stumbled over each other to staunch the flow of water into the bulkhead, pushing against a gushing tide lit red and fateful by alarm lights. I watched her tumble under with the rest of them, crushed into nothing or pulled out into the deep. I didn't know her then. I barely know her now.
 
 I only learned her name today, sitting at a railing in one of the best-lit segments of the steam tunnels. A mural swam in and out of focus off to the side. Her back, invisible beneath a white tee and overall straps, dented as it pushed into the bars. I knew her name without asking, but this was the first time I knew; *Pila* rose out of the fog of my memory, *Priscilla Zhang* hot on its heels. Like Zuckerberg's wife? I asked. Zuckerberg was a nobody when I named me, she said.
 
